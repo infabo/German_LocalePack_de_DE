@@ -26,7 +26,7 @@
 "Destination file is not writable","Zieldatei ist nicht beschreibbar"
 "Destination file path must be a string","Pfad der Zieldatei muss ein String sein"
 "Done import data validation","Importüberprüfung abgeschlossen"
-"Duplicate Unique Attribute for '%s'","Einmaliges Attribut '%s' doppelt vorhanden"
+"Duplicate Unique Attribute for '%s'","Eindeutiges Attribut '%s' doppelt vorhanden"
 "Entity Type","Datensatztyp"
 "Entity adapter obejct must be an instance of Mage_ImportExport_Model_Export_Entity_Abstract","Entity Adapterobjekt muss eine Instanz von Mage_ImportExport_Model_Export_Entity_Abstract sein"
 "Entity adapter object must be an instance of Mage_ImportExport_Model_Import_Entity_Abstract","Entity Adapterobjekt muss eine Instanz von Mage_ImportExport_Model_Import_Entity_Abstract sein"
